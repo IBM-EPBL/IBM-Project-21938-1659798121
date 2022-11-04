@@ -1,1 +1,0 @@
-vasanth = mass ^ 2
